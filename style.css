@@ -1,0 +1,87 @@
+table {
+    width: 90%;
+    text-align: left;
+    margin-bottom: 25px; 
+    margin-top: 25px; 
+}
+
+ul {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+th {
+    max-width: 150px; 
+    word-wrap: break-word;
+}
+
+td {
+    max-width: 150px; 
+    
+}
+
+body {
+    background: linear-gradient(to bottom, white 20%, rgba(0, 136, 255, 0.892)250%);
+    font-family: Arial, sans-serif; 
+    margin: 80px;     
+}
+
+hr {
+    border-color:  rgba(0, 136, 255, 0.892); 
+}
+
+img {  
+    width: 175px;
+    height: 175px;
+    margin-right: 200px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+.container {
+    margin-right: 100px;
+    overflow: hidden;
+}
+
+.title-container {
+    display: flex;
+    align-items: center;
+
+}
+
+h1 {
+    text-align: center;
+    color: rgba(0, 136, 255, 0.892);
+    font-size: 56px;
+    text-shadow: 4px 4px 8px black;
+}
+
+#datospersonales {
+   background-color: rgba(0, 136, 255, 0.892);
+   display: inline-block;   
+}
+
+#formacion {
+    background-color: rgba(0, 136, 255, 0.892);
+    display: inline-block;
+}
+
+#experiencialaboral {
+    background-color: rgba(0, 136, 255, 0.892);
+    display: inline-block;
+}
+
+p {
+    text-align: left;  
+}
+
+.rectangulo {
+    position: fixed;
+    top: 20px;
+    right: 50px;
+    bottom: 20px;
+    width: 100px; 
+    background-color: rgba(0, 136, 255, 0.892);
+  }
+
+ 
